@@ -101,7 +101,7 @@ export default function WeddingInvitation(){
                 <p className="text-gray-600">21st November, 2:30 PM</p>
               </div>
               <div className="p-1 bg-red-50 rounded-lg">
-                <h4 className="font-medium text-red-800">Ghee palai</h4>
+                <h4 className="font-medium text-red-800">Ghee pilayi</h4>
                 <p className="text-gray-600">21st November, 6:30 PM</p>
               </div>
               <div className="p-1 bg-red-50 rounded-lg">
@@ -109,7 +109,7 @@ export default function WeddingInvitation(){
                 <p className="text-gray-600">22nd November, 8:00 AM</p>
               </div>
               <div className="p-1 bg-red-50 rounded-lg">
-                <h4 className="font-medium text-red-800">Phool ki Holi</h4>
+                <h4 className="font-medium text-red-800">Phoolo ki Holi</h4>
                 <p className="text-gray-600">22nd November, 11:00 AM</p>
               </div>
 
